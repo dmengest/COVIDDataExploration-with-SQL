@@ -1,6 +1,6 @@
 # COVIDDataExploration-with-SQL
 
-This code demonstrates different data exploration and manipulation techniques using SQL queries for COVID-19 deaths and vaccinations. 
+This project demonstrates different data exploration and manipulation techniques using SQL queries for COVID-19 deaths and vaccinations. 
 It includes various SQL queries to retrieve and analyze data from two tables: "CovidDeaths" and "CovidVaccination" in the "PortfolioProject" database.
 
 Here is a summary of the code:
