@@ -1,5 +1,5 @@
 
--- Exploring the variables 
+-- Exploring the tables 
 select *
 from PortfolioProject..CovidDeaths
 order by 3,4
